@@ -2,7 +2,7 @@
   "name": "vite-react-template",
   "installCommand": "npm install",
   "assets": {
-    "directory": "./build",
+    "directory": "./dist",
     "notFoundStrategy": "singlePageApplication"
   }
 }
